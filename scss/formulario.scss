@@ -3,7 +3,10 @@
 }
 
 body {
-    background: #04202C;
+    background: #04202C;    
+}
+
+.contenido{
     line-height: 1.6;    
     padding: 0 1.5em;
 }
@@ -80,9 +83,6 @@ ul {
 
 /* MEDIA */
 @media(min-width: 700px) {
-    body {
-        padding: 0 4em;
-    }
     .contacto {
         display: grid;
         grid-template-columns: 3fr 1fr;
