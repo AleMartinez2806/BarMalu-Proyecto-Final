@@ -83,13 +83,14 @@ ul {
 
 /* MEDIA */
 @media(min-width: 700px) {
+    
     .contacto {
         display: grid;
         grid-template-columns: 3fr 1fr;
     }
-    .contacto > * {
-        padding: 2em;
-    }
+    // .contacto > * {
+    //     padding: 2em;
+    // }
     .contacto-info h4,
     .contacto-info ul,
     .contacto-info p {

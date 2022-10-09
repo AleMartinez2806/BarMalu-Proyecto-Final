@@ -138,8 +138,6 @@ ul {
   .contacto {
     display: grid;
     grid-template-columns: 3fr 1fr; }
-  .contacto > * {
-    padding: 2em; }
   .contacto-info h4,
   .contacto-info ul,
   .contacto-info p {
